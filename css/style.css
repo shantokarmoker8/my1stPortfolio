@@ -1,5 +1,30 @@
+/* font-family: 'Dongle', sans-serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Dongle", sans-serif;
+}
 .circle {
   position: absolute;
-  height: 200px;
-  top: -145%;
+  z-index: -1;
+}
+.section-1 {
+  padding: 100px;
+  width: 60%;
+}
+.section-1 h1 {
+  padding-left: 60px;
+  padding-top: 50px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 50px;
+}
+.section-1 h3 {
+  margin-top: 30px;
+  padding-left: 60px;
+  font-weight: 700;
+  font-size: 40px;
 }
