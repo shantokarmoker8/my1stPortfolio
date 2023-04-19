@@ -7,12 +7,15 @@
   }
   .section-1 h1 {
     font-size: 25px;
+    padding-left: 20px;
   }
   .section-1 h3 {
     font-size: 25px;
+    padding-left: 20px;
   }
   .section-1 p {
     font-size: 15px;
+    padding-left: 20px;
   }
   .section-1 a {
     padding: 5px 25px;
