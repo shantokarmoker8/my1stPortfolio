@@ -10,18 +10,17 @@ body {
 }
 .full-area {
   display: flex;
+
+  padding: 150px 100px;
 }
 .circle {
   position: absolute;
   z-index: -1;
 }
 .section-1 {
-  padding: 100px;
   width: 60%;
 }
 .section-1 h1 {
-  padding-left: 60px;
-  padding-top: 50px;
   font-family: "Ubuntu", sans-serif;
   font-size: 40px;
 }
@@ -30,13 +29,13 @@ body {
 }
 .section-1 h3 {
   margin-top: 30px;
-  padding-left: 60px;
+
   font-weight: 700;
   font-size: 40px;
 }
 .section-1 p {
   font-size: 20px;
-  padding-left: 60px;
+
   color: darkolivegreen;
   margin-bottom: 20px;
 }
