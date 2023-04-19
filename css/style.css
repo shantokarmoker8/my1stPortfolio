@@ -58,3 +58,15 @@ body {
 .section-2 img {
   max-width: 100%;
 }
+.icons {
+}
+.icons ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+.icons ul li a i {
+  font-size: 50px;
+  padding: 0 40px;
+  margin-bottom: 30px;
+}
