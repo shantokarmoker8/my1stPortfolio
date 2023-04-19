@@ -68,3 +68,18 @@ body {
   padding: 0 40px;
   margin-bottom: 30px;
 }
+.facebook i {
+  color: #317ef0;
+}
+.instagram i {
+  color: #da4273;
+}
+.github i {
+  color: #000;
+}
+.linkedin i {
+  color: #0073b1;
+}
+.twitter i {
+  color: #1c96e8;
+}
